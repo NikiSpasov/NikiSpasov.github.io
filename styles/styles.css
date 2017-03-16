@@ -1,7 +1,11 @@
 .navmenu-top{
     margin-top: 60px;
 }
-.button-top
-{
+.button-top{
 margin-top: 15px;
+}
+body { 
+    /*background-color: rgb(255, 170, 0);*/
+    background-image:url('IMG_0017.jpg');
+    
 }
